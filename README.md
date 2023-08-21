@@ -42,7 +42,7 @@
 
 </div >
 
-#  🙋 Hello
+#  🙋 Introduction
 
 <table>
 <tr>
@@ -97,7 +97,7 @@
 </table>
 
 
-#  🙋 学习安排
+#  🙋 Plan
 
 <div align="center">
 
