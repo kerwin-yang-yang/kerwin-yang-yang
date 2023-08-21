@@ -27,8 +27,6 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=kerwin-yang-yang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-
-     <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-3d-contrib/profile-green.svg" />
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
