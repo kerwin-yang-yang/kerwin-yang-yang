@@ -6,7 +6,7 @@
     </a>
   </div>
   <!-- knock code pictures 敲代码的图片 -->
-    <img src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/code.gif" /><br>
+    <img width="100%" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/code.gif" /><br>
   
 
    <!-- profile logo 个人资料徽标 -->
