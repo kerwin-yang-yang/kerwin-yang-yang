@@ -11,6 +11,8 @@
           <img width="40%" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/code.gif" /><br>
   
    </div>
+   
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 
    <!-- profile logo 个人资料徽标 -->
@@ -109,7 +111,6 @@
 <div align="center">
 
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 
 
