@@ -100,8 +100,13 @@
 </td></tr>
 </table>
 
-  
 ## 🙋 学习状态
+<table>
+<tr><td>
+
+</td></tr>
+</table>
+
 <div align="center">
   <!--  skill badge 技能徽章 -->
 
