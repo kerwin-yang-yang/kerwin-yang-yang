@@ -29,6 +29,9 @@
     <img src="https://komarev.com/ghpvc/?username=kerwin-yang-yang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
+
+<!-- profile-3d-contrib 3D贡献图-->
+<img src="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-3d-contrib/profile-green.svg" />
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source
@@ -44,9 +47,6 @@
     src="https://raw.githubusercontent.com/kerwin-yang-yang/kerwin-yang-yang/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-3d-contrib/profile-green.svg" />
-
 </div>
 
 </div >
