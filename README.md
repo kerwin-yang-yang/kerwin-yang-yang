@@ -96,7 +96,8 @@
 
 </td></tr>
 </table>
-<!--  skill badge 技能徽章 -->
+<div align="center">
+  <!--  skill badge 技能徽章 -->
 💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -150,6 +151,7 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+</div>
 
 <div align="center">
   <div align="center"> <img src="https://metrics.lecoq.io/kerwin-yang-yang?template=classic&config.timezone=Asia%2FShanghai"> </div>
