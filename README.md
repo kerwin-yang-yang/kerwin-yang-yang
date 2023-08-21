@@ -7,6 +7,8 @@
 </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kerwin-yang-yang" /> </div>
 <!--
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=kerwin-yang-yang&theme=xcode" /> </div>
 **kerwin-yang-yang/kerwin-yang-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
