@@ -34,7 +34,7 @@
 </picture>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-3d-contrib/profile-green.svg" />
 </div>
 
 </div >
