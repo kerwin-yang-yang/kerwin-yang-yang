@@ -87,7 +87,7 @@
 * <a href='http://movie.douban.com/subject/1292365/' target='_blank'>看过活着</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过假如爱有天意</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
 * <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看狂飙</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
-<!-- END_SECTION:douban -->
+<!-- END_SECTION:douban 
 
 </td></tr>
 
@@ -96,7 +96,7 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
-<picture>
+<!--  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra"
     media="(prefers-color-scheme: dark)"
@@ -108,6 +108,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </picture>
+-->
 
 </td></tr>
 </table>
