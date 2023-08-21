@@ -17,6 +17,14 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=kerwin-yang-yang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div align="center">
+<div>
   <div align="center"> <img src="https://metrics.lecoq.io/kerwin-yang-yang?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <div>
@@ -24,7 +32,6 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerwin-yang-yang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kerwin-yang-yang" /> </div>
-
 
 </div>
 
