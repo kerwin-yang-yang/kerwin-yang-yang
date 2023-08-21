@@ -93,10 +93,11 @@
 
 <tr><td>
 
-<!-- wakatime 统计 -->
-### 📊 WakaTime
+
 
 <!--  <picture>
+<!-- wakatime 统计 -->
+### 📊 WakaTime
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra"
     media="(prefers-color-scheme: dark)"
