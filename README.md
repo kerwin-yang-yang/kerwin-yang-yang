@@ -7,8 +7,8 @@
   </div>
   <!-- knock code pictures 敲代码的图片 -->
    <div align="center">
-          <img  width="50%" src="https://metrics.lecoq.io/kerwin-yang-yang?template=classic&config.timezone=Asia%2FShanghai">
-          <img width="50%" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/code.gif" /><br>
+          <img  width="60%" src="https://metrics.lecoq.io/kerwin-yang-yang?template=classic&config.timezone=Asia%2FShanghai">
+          <img width="30%" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/code.gif" /><br>
   
    </div>
    
