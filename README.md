@@ -103,11 +103,6 @@
 ## 🙋 学习状态
 <table>
 <tr><td>
-
-</td></tr>
-</table>
-
-<div align="center">
   <!--  skill badge 技能徽章 -->
 
 
@@ -164,6 +159,11 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+</td></tr>
+</table>
+
+<div align="center">
+
 </div>
 
 <div align="center">
