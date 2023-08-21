@@ -4,8 +4,9 @@
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小刘今天继续加油呀&center=true&size=27" alt="Typing SVG" />
         <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/code.gif" /><br>
+ 
     </a>
+     <img src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/code.gif" />
   </div>
 
    <!-- profile logo 个人资料徽标 -->
