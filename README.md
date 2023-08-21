@@ -95,21 +95,6 @@
 
 
 
-<!--  <picture>
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</picture>
--->
 
 </td></tr>
 </table>
