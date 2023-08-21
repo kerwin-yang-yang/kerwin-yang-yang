@@ -100,12 +100,12 @@
 </td></tr>
 </table>
 
-
+  
+## 🙋 学习状态
 <div align="center">
   <!--  skill badge 技能徽章 -->
 
-  
-## 🙋 学习状态
+
 ### 💪 正在学习
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
