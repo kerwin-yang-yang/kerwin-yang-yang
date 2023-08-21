@@ -21,7 +21,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/kerwin-yang-yang/kerwin-yang-yang/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kerwin-yang-yang/kerwin-yang-yang/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="github-snake" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div >
