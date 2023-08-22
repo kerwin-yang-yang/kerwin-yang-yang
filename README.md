@@ -61,7 +61,7 @@
 <p>&emsp;&emsp;大家好，我是kerwin。</p>
 <p>&emsp;&emsp;网安专业程序员一枚。</p>
 <p>&emsp;&emsp;现为一名在校学生，在缓慢爬行之中。</p>
-<p><strong>&emsp;&emsp;Strive to move forward, strive for freedom in life, and pursue a wonderful journey</strong></p>
+<p><strong>&emsp;&emsp;Getting more disciplined, trying to move forward for life, fighting for freedom in life, pursuing a wonderful journey</strong></p>
 </td></tr>
 
 <tr>
