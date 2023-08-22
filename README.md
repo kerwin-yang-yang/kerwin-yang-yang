@@ -8,7 +8,7 @@
   <!-- knock code pictures 敲代码的图片 -->
    <div align="center">
           <img  width="50%" src="https://metrics.lecoq.io/kerwin-yang-yang?template=classic&config.timezone=Asia%2FShanghai">
-          <img width="45%" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/code.gif" /><br>
+          <img width="45%" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/assets/code.gif" /><br>
   
    </div>
    
@@ -55,7 +55,7 @@
 <td>
   
 ### 🤺 About Me
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/assets/outlook.png" />
 <p>&emsp;&emsp;大家好，我是kerwin。</p>
 <p>&emsp;&emsp;网安专业程序员一枚。</p>
 <p>&emsp;&emsp;现为一名在校学生。</p>
