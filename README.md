@@ -67,21 +67,21 @@
 <tr>
 <td>
 
-### 🏢 Work Experience
+### 🏢 Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/assets/scu.jpeg" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
+- [四川大学网络空间安全学院](https://ccs.scu.edu.cn/xygk.htm) &emsp; 📌 2020.09.01 —— Now
   
-  - 工作岗位：Web前端开发工程师（初级）
-  - 工作内容：GIS相关
+  - 学院：网络空间安全学院
+  - 专业：网络空间安全
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
 
 - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
   
   - 工作岗位：Web前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作 -->
 
 </td>
 </tr>
