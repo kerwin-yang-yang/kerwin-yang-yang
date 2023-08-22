@@ -52,7 +52,7 @@
 
 <table>
 <tr>
-<td>
+<td width="100%">
   
 ### 🤺 About Me
 <img align="right" width="88" src="https://github.com/kerwin-yang-yang/kerwin-yang-yang/blob/master/assets/outlook.png" />
@@ -64,7 +64,7 @@
 </td></tr>
 
 <tr>
-<td>
+<td  width="100%">
 
 ### 🏢 Work Experience
 
@@ -85,7 +85,7 @@
 </td>
 </tr>
 
-<tr><td>
+<tr><td  width="100%">
 
 ### 🤾‍♂️ Funny Soul
 
